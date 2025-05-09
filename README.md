@@ -27,7 +27,7 @@ To run WEBscan, you need the following:
 
 - **Python**: Version 3.8 or higher
 - **Dependencies** (listed in `requirements.txt`):
-  ```plaintext
+```plaintext
   PySide6
   websocket-client
 ```
