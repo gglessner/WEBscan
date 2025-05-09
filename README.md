@@ -30,7 +30,7 @@ To run WEBscan, you need the following:
   ```plaintext
   PySide6
   websocket-client
-````
+```
 
 * **Operating System**: Compatible with Windows, macOS, or Linux
 * **Credentials File**: A `web-defaults.txt` file in the `modules` directory, containing username\:password pairs for authentication testing (e.g., `admin:admin`).
