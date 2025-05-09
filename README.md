@@ -75,9 +75,7 @@ pip install -r requirements.txt
 
 ### Run the Application:
 
-```bash
-python webscan.py
-```
+Run the `WEBscan` module via the ningu framework or the HACKtiveMQ Suite.
 
 ### Interface Overview:
 
